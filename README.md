@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NatpeanaT479
 - 👀 I’m interested in SQL, R, Python
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
+- 🌱 I’m currently taking Google Data Analytics Professional Certificate
 
 
 <!---
